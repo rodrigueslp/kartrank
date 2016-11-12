@@ -1,0 +1,6 @@
+Observações
+
+1 - Foram criadas 02 JSPs (cadastrar_corrida.jsp e rank.jsp) para "inputar" o arquivo do log e outra para mostra o resultado.
+2 - Tentei explorar OO e abstração de código para poder manipular os dados.
+3 - Foram utilizados principalmente recursos novos do Java 8 como o lambda, stream e o LocalTime.
+4 - Única lib externa que foi utilizada é a jstl-1.2.jar para facilitar o tratamento dos dados no front-end.
